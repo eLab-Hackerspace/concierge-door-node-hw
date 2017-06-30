@@ -1,0 +1,3 @@
+Schematic Libraries:
+nodemcu.lib https://github.com/skorokithakis/kicad-lib.git
+rfid-rc522-module.lib https://github.com/DAlexis/some-kicad-components.git
