@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATECC508A
+D CapSense Controller, 2 Sensors, SOIC-8
+K Touch Sensor 2ch
+F http://www.cypress.com/?docID=49119
+$ENDCMP
+#
+#End Doc Library

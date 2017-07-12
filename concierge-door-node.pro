@@ -1,4 +1,4 @@
-update=Dom 08 Mai 2016 20:02:17 WEST
+update=Qua 12 Jul 2017 22:44:45 WEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=rfid-rc522-module
 LibName31=nodemcu
+LibName32=atecc508a
+LibName33=pololu_a4988
